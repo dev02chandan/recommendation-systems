@@ -21,7 +21,7 @@ Recommendation systems play a crucial role in providing personalized suggestions
 
 ### Music Recommendation
 
-- [View Notebook](Music Recommendation System using KNN.ipynb)
+- [View Notebook](Music_Recommendation_System_using_KNN.ipynb)
 - Description: This notebook explores music recommendation using KNN Algorithm. It demonstrates how to build a music recommendation system from scratch.
 
 ### Item-Item Collaborative Filtering
