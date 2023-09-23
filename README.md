@@ -9,6 +9,7 @@ Welcome to the Recommendation Systems Repository! This repository contains imple
   - [Music Recommendation](#music-recommendation)
   - [Item-Item Collaborative Filtering](#item-item-collaborative-filtering)
   - [User-User Collaborative Filtering](#user-user-collaborative-filtering)
+  - [Matrix Factorisation using Singular Value Decompostion](#Rating_prediction_using_matrix_factorization)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -33,6 +34,11 @@ Recommendation systems play a crucial role in providing personalized suggestions
 
 - [View Notebook](User_User_Based_Collaborative_Filtering.ipynb)
 - Description: This notebook focuses on User-User Collaborative Filtering, another recommendation approach. It demonstrates how to create user-based recommendations based on user behavior.
+
+### Matrix Factorisation
+-[View Notebook](Rating_prediction_using_matrix_factorization.ipynb)
+- Description: This notebook focuses on implementing our own functions for SGD, batch gd, user bias and item bias for implenting Singular value decomposition for rating predictions. It also includes experimentation with hyperparameter tuning.
+
 
 ## Setup
 
