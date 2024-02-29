@@ -2,7 +2,9 @@
 
 Welcome to the Recommendation Systems Repository! This repository contains implementations and examples of recommendation systems using various techniques and algorithms. Below, you'll find a brief overview of the contents and how to navigate through them.
 
-![Recommendation system image](https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/recommendation-system/img-1.png)
+<p align="center">
+  <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/recommendation-system/img-1.png" />
+</p>
 
 ## Table of Contents
 
