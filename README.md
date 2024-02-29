@@ -39,6 +39,9 @@ Recommendation systems play a crucial role in providing personalized suggestions
 -[View Notebook](Rating_prediction_using_matrix_factorization.ipynb)
 - Description: This notebook focuses on implementing our own functions for SGD, batch gd, user bias and item bias for implenting Singular value decomposition for rating predictions. It also includes experimentation with hyperparameter tuning.
 
+### SVD
+-[View Notebook](Singular Value Decomposition.ipynb)
+- Description: This notebook performs Singular Value Decomposition on a small toy dataset, to gain an intuition, and then on the movie lens dataset. It involvs comparison of RMSE values with and without using SVD. Finally we generate the top 10 best recommendations for a user.
 
 ## Setup
 
